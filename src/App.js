@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App(props) {
-  const subject = "React";
+  const subject = "React!";
   return (
     <div className="App">
       <header className="App-header">
